@@ -1,0 +1,54 @@
+body
+{
+    margin: 5px;
+    padding: 5px;
+    font-family: sans-serif;
+    background-size: cover;
+    background-position: center;
+    background-image:url("reception.jpg");
+    max-width: 1000px;
+    max-height: 1000px;
+}
+.main{
+    margin-top: 150px;
+    margin-bottom: 100px;
+    margin-left: 400px;
+    margin-right: 50px;
+    box-sizing: content-box;
+    box-shadow: transparent black;
+    background-color: transparent black;
+}
+a{
+    text-decoration: none;
+}
+button
+{
+    color: #fff;
+    width: 15%;
+    padding: 2px;
+    font-size: 15px;
+    margin: 10px 0;
+    outline: none;
+    cursor: pointer;
+}
+h2{
+    font-size:30px ;
+    font-weight: 200;
+    font-family: sans-serif;
+    padding: 1px;
+    color: #120120;
+}
+label{
+    font-size: 35x;
+    font-family:lucida sans;
+    color:maroon;
+    font-weight:boldest;
+}
+img{
+    text-decoration: none;
+    max-width: 1000px;
+    max-height: 100px;
+}  
+.lab{
+    color: black;
+}
